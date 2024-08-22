@@ -1,4 +1,4 @@
-# NPTEL-Programming-in-Python-2024
+# NPTEL-WEEK-1-Programming-in-Python-2024
 Find all nptel course Programming in python related resources and solutions here.
 
 ## WEEK 1
